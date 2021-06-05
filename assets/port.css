@@ -4,6 +4,10 @@ body, html {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.port {
+  padding-left: 20px;
+  padding-top: 10px;
+}
 .navbar-brand {
     font-size: 40px;  
 }
@@ -71,7 +75,7 @@ a:hover {
 .about-me {
     padding: 50px;
     text-align: center;
-    background-color: #474e5d;
+    background-color: #5c5f63;
     color: white;
 }
 
@@ -79,7 +83,7 @@ a:hover {
     font-weight: bold;
     font-size: 35px;
     background-color: white;
-    color: #474e5d;
+    color: #5c5f63;
 }
 
 .about-text {
@@ -95,8 +99,7 @@ a:hover {
     margin-top: 40px;
     font-weight: bold;
     font-size: 35px;
-    background-color: #474e5d;
-    color: white;
+    color: #5c5f63;
     padding: 15px;
 }
 
